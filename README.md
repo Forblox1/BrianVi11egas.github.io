@@ -37,5 +37,7 @@ Making it a very big problem for mistakes and even less jobs being available, le
 
 <img width="3902" height="1072" alt="Screenshot 2025-10-06 152618" src="https://github.com/user-attachments/assets/355edc9b-648a-490e-af1c-91513c411aae" />
 
+### Rule of Kuhl
+
 
 
